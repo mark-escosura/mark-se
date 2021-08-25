@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mark-se
+- 👋 Hi, I’m <a href="https://github.com/mark-se/mark-se" target="_blank">@mark-se</a>
 - 👀 I’m interested in Full Stack Web Development
 - 🌱 I’m currently learning HTML / CSS / JS
 - 💞️ I’m looking to collaborate on ...
