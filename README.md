@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full Stack Web Development
 - 🌱 I’m currently learning HTML / CSS / JS
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... <a href="https://www.instagram.com/markintech" target="_blank">@markintech</a> on Instagram (atm).
+- 📫 How to reach me ... <a href="https://www.instagram.com/markintech" target="_blank" alt="This will lead to Instagram">@markintech</a> on Instagram (atm).
 
 <!---
 mark-se/mark-se is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
