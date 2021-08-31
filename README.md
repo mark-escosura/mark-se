@@ -1,4 +1,4 @@
-- 👋 Hi, I’m <a href="https://github.com/mark-se/mark-se" target="_blank">@mark-se</a>
+- 👋 Hi, I’m <a href="https://github.com/mark-se/mark-se" target="_blank">@mark-escosura</a>
 - 👀 I’m interested in Full Stack Web Development.
 - 🌱 I’m currently learning Full Stack Web Development through <a href="https://www.lambdaschool.com" alt="This will lead you to a new tab" target="_blank">Lambda School </a>'s mastery-based program.
 - 💞️ I’m looking to collaborate on ...
